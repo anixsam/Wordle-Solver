@@ -1,5 +1,6 @@
 from itertools import chain
 
+print("******************SCRIPT BY ANIX SAM SAJI*********************************")
 
 wordlist = open("wordlist.txt","w")
 start_letter = 97
