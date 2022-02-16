@@ -20,4 +20,10 @@
 >> In linux
 >>>Open Terminal => type "cd [folderpath]" => type "python wordle-solver.py"
 
+ <p style="color:cyan;opacity:70%;"><b>If you want to generate a custom wordlist of all possible 5 letter words just run 'wordlist-creator.py'</b> </p>
+
 *Please Ensure the python is added to PATH in case of Windows else command python will show error*
+
+**Author**
+
+[Anix Sam Saji]("https://www.anixsamsaji.me")

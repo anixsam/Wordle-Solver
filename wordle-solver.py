@@ -14,9 +14,9 @@ while(contin == 'y' or contin == 'Y'):
     finalWords = []
     character = input("Enter the characters you know : ")
     
-    color = input("Enter the color of the character : ")
+    color = input("Enter the color of the character ['b','g','y'] : ")
     while(color not in supported_chars):
-        color = input("Enter the color of the character :")
+        color = input("Enter the color of the character ['b','g','y'] :")
         if color not in supported_chars :
             print("Not right color")
         else:
